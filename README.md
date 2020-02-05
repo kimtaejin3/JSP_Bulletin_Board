@@ -1,2 +1,1 @@
-# JSP_Bulletin_Board
-create bulletin board
+# 유튜버 동빈나 JSP 웹 게시판 만들기 학습일지
